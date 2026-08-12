@@ -63,17 +63,10 @@
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Hiren-Vaghela1412&show_icons=true&theme=tokyonight&hide_border=true"/>
-  
-  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Hiren-Vaghela1412&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img height="170" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Hiren-Vaghela1412&show_icons=true&theme=tokyonight&hide_border=true" />
+
+  <img height="170" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Hiren-Vaghela1412&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
-<br>
-
-<div align="center">
-<img src="https://streak-stats.demolab.com?user=Hiren-Vaghela1412&theme=tokyonight&hide_border=true" />
-</div>
-
-<br>
 
 
 
