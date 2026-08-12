@@ -63,12 +63,14 @@
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Hiren-Vaghela1412&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Hiren-Vaghela1412&show_icons=true&theme=tokyonight" height="170" />
 
-  <img height="170" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Hiren-Vaghela1412&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Hiren-Vaghela1412&layout=compact&theme=tokyonight" height="170" />
 </p>
 
-
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Hiren-Vaghela1412&theme=tokyonight" />
+</p>
 
 ## 🌐 Connect With Me
 
