@@ -53,7 +53,7 @@
 ✅ Machine Learning
 ✅ Computer Vision
 ✅ YOLO Object Detection
-🔄 Deep Learning
+✅ Deep Learning
 🔄 Generative AI
 🔄 MLOps
 ```
@@ -68,9 +68,6 @@
   <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Hiren-Vaghela1412&layout=compact&theme=tokyonight" height="170" />
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Hiren-Vaghela1412&theme=tokyonight" />
-</p>
 
 ## 🌐 Connect With Me
 
